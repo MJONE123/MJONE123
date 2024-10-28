@@ -1,6 +1,7 @@
 ## 안녕하세요. 백엔드 개발자 문준일입니다! 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=MJONE123&fontSize=90&fontColor=c8c8c8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=300&section=header&text=MJONE123&fontSize=90&fontColor=f7f5f5)
+
 
 <!--
 **MJONE123/MJONE123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
