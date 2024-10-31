@@ -44,4 +44,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 </div>
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="43" height="43" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="43" height="43" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="37" height="37" /></div>
