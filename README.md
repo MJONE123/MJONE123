@@ -20,7 +20,39 @@ Here are some ideas to get you started:
 ![MJONE123's GitHub stats](https://github-readme-stats.vercel.app/api?username=MJONE123&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJONE123&layout=compact&title_color=ffffff&bg_color=0d1117)
 
 
+**Language**<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+<br><br>
+**Backend**
+<br>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+<br><br>
+<br><br>
+📙 **Database**
+<br>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<br><br><br>
+**ML/DL**
+<br>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+
+<br><br>
+
+
+
+
+
+<!--
 ### 🔧 Tech Stack
 <div align="left">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -45,3 +77,4 @@ Here are some ideas to get you started:
 </div>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="37" height="37" /></div>
+-->
